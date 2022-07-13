@@ -136,24 +136,27 @@ section p{
 @media (min-width:376px) and (max-width:620px) {
     .twitter {
         font-size: 17px;
-        padding: 13px;
+        padding: 15px;
         margin: 0px 2px;
     }
     .facebook {
         font-size: 17px;
-        padding: 13px;
+        padding: 15px;
         margin: 0px 2px;
     }
     .instagram {
         font-size: 17px;
-        padding: 13px;
+        padding: 15px;
         margin: 0px 2px;
     }
     .social{
-        margin-top: 26px;
+        margin-top: 30px;
     }
     section p {
         font-size: 15px;
+    }
+    .img{
+        width: 50%;
     }
     audio {
         width: 200px;
